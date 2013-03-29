@@ -1,0 +1,25 @@
+[26-Feb-2013 14:52:49] CSRF state token does not match one provided.
+[26-Feb-2013 15:06:03] CSRF state token does not match one provided.
+[26-Feb-2013 15:36:46] CurlException: 28: Connection time-out
+[26-Feb-2013 15:37:15] CSRF state token does not match one provided.
+[26-Feb-2013 15:54:08] CSRF state token does not match one provided.
+[26-Feb-2013 15:54:29] CSRF state token does not match one provided.
+[26-Feb-2013 15:54:47] CSRF state token does not match one provided.
+[26-Feb-2013 15:54:49] CSRF state token does not match one provided.
+[26-Feb-2013 15:58:08] OAuthException: Error validating access token: The session is invalid because the user logged out.
+[26-Feb-2013 15:58:11] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/machnhov/public_html/facebook/src/base_facebook.php on line 1254
+[26-Feb-2013 15:59:20] OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+[26-Feb-2013 15:59:22] PHP Fatal error:  Uncaught OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+  thrown in /home/machnhov/public_html/facebook/src/base_facebook.php on line 1254
+[26-Feb-2013 16:24:37] CSRF state token does not match one provided.
+[26-Feb-2013 16:34:46] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/machnhov/public_html/facebook/index.php on line 53
+[26-Feb-2013 16:50:01] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/machnhov/public_html/facebook/index.php on line 53
+[26-Feb-2013 17:34:33] OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+[26-Feb-2013 17:34:34] PHP Fatal error:  Uncaught OAuthException: Error validating access token: The session was invalidated explicitly using an API call.
+  thrown in /home/machnhov/public_html/facebook/src/base_facebook.php on line 1254
+[27-Feb-2013 11:31:23] CSRF state token does not match one provided.
+[27-Feb-2013 22:32:44] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[27-Feb-2013 22:32:44] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/machnhov/public_html/facebook/src/base_facebook.php on line 970
+[01-Mar-2013 10:26:26] CurlException: 28: Connection time-out
+[01-Mar-2013 10:26:39] CurlException: 28: Connection time-out
